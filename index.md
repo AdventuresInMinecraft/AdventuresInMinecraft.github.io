@@ -9,6 +9,10 @@ Download the Adventures in Minecraft Starter Kits here:
 
 Links
 
+# Forum
+
+Ask a question, get help, show off your work in the [Adventures in Minecraft Forum](http://www.stuffaboutcode.com/p/adventures-in-minecraft-forum.html)
+
 # Repositories
 
 The Adventures in Minecraft code resources, plugins and modules can be found here: 
@@ -29,6 +33,3 @@ anyio - [Repository](https://github.com/AdventuresInMinecraft/anyio) &#124; [Rea
 
 RaspberryJuice plugin - [Repository](https://github.com/zhuowei/RaspberryJuice) &#124; [Readme](https://github.com/zhuowei/RaspberryJuice/blob/master/README.md) &#124; [Download](https://www.spigotmc.org/resources/raspberryjuice.22724/)
 
-# Forum
-
-Ask a question, get help, show off your work in the [Adventures in Minecraft Forum](http://www.stuffaboutcode.com/p/adventures-in-minecraft-forum.html)

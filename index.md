@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Starter Kits
 
-You can use the [editor on GitHub](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Download the Adventures in Minecraft Starter Kits here:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Windows PC Starter Kit 
+[Download](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-PC/releases/download/1.12/AIMStarterKitPC.zip) &#124; [Readme](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-PC/blob/master/README.md)
 
-### Markdown
+# Code files
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Links
 
-```markdown
-Syntax highlighted code block
+# Repositories
 
-# Header 1
-## Header 2
-### Header 3
+The Adventures in Minecraft code resources, plugins and modules can be found here: 
 
-- Bulleted
-- List
+Adventures in Minecraft download & info site - [Repository](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-github.io)
 
-1. Numbered
-2. List
+Raspberry Pi Starter Kit - [Repository](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-PC) &#124; [Readme](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-Pi/blob/master/README.md)
 
-**Bold** and _Italic_ and `Code` text
+Windows PC Starter Kit - [Repository](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-PC) &#124; [Readme](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-PC/blob/master/README.md)
 
-[Link](url) and ![Image](src)
-```
+Apple Mac OS Starter Kit - [Repository](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-Mac) &#124; [Readme](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-Mac/blob/master/README.md)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+mcpi - [Repository](https://github.com/AdventuresInMinecraft/mcpi) &#124; [Readme](https://github.com/AdventuresInMinecraft/mcpi/blob/master/README.md)
 
-### Jekyll Themes
+bitio - [Repository](https://github.com/AdventuresInMinecraft/bitio) &#124; [Readme](https://github.com/AdventuresInMinecraft/bitio/blob/master/README.md)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+anyio - [Repository](https://github.com/AdventuresInMinecraft/anyio) &#124; [Readme](https://github.com/AdventuresInMinecraft/anyio/blob/master/README.md)
 
-### Support or Contact
+RaspberryJuice plugin - [Repository](https://github.com/zhuowei/RaspberryJuice) &#124; [Readme](https://github.com/zhuowei/RaspberryJuice/blob/master/README.md) &#124; [Download](https://www.spigotmc.org/resources/raspberryjuice.22724/)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Forum
+
+Ask a question, get help, show off your work in the [Adventures in Minecraft Forum](http://www.stuffaboutcode.com/p/adventures-in-minecraft-forum.html)

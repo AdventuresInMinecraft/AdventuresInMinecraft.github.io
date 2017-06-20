@@ -3,9 +3,13 @@
 Download the Adventures in Minecraft Starter Kits here:
 
 ## Windows PC Starter Kit 
+
 [Download](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-PC/releases/download/1.12/AIMStarterKitPC.zip) &#124; [Readme](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-PC/blob/master/README.md)
 
 ## Apple Mac OS Starter Kit
+
+[Donwload](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-Mac/releases/download/v1.12/AdventuresInMinecraft-Mac.zip) &#124; [Readme](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-Mac/blob/master/README.md)
+
 To come.
 
 # Adventures Code

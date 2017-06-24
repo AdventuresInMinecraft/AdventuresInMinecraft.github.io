@@ -8,7 +8,7 @@ Download the Adventures in Minecraft Starter Kits here:
 
 ## Apple Mac OS Starter Kit
 
-[Download](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-Mac/releases/download/v1.12/AdventuresInMinecraft-Mac.zip) &#124; [Readme](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-Mac/blob/master/README.md)
+[Download](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-Mac/releases/download/v1.12/AIMStarterKitMac.zip) &#124; [Readme](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-Mac/blob/master/README.md)
 
 # Adventures Code
 

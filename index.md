@@ -18,7 +18,7 @@ It is commented and tested and you might find it useful to compare agained your 
 
 The code download is organised into Adventures, you should copy the program file into the `My Adventures` folder before running.
 
-[1st Edition](https://github.com/AdventuresInMinecraft/code-files/archive/1.0.zip) &#124;
+Downloads - [1st Edition](https://github.com/AdventuresInMinecraft/code-files/archive/1.0.zip) &#124;
 2nd Edition - to come &#124;
 [Latest](https://github.com/AdventuresInMinecraft/code-files/archive/master.zip)
 
@@ -38,7 +38,7 @@ Windows PC Starter Kit - [Repository](https://github.com/AdventuresInMinecraft/A
 
 Apple Mac OS Starter Kit - [Repository](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-Mac) &#124; [Readme](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-Mac/blob/master/README.md)
 
-Adventures code - [repository](https://github.com/AdventuresInMinecraft/code-files) &#124; [Readme](https://github.com/AdventuresInMinecraft/code-files/blob/master/README.md)
+Adventures code - [Repository](https://github.com/AdventuresInMinecraft/code-files) &#124; [Readme](https://github.com/AdventuresInMinecraft/code-files/blob/master/README.md)
 
 mcpi - [Repository](https://github.com/AdventuresInMinecraft/mcpi) &#124; [Readme](https://github.com/AdventuresInMinecraft/mcpi/blob/master/README.md)
 

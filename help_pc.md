@@ -5,7 +5,7 @@
  
 ## Windows protected your PC  <a id="windowsprotectedpc"></a>
 
-When starting the Minecraft Server, you receive `Windows protected your PC. Windows Defender SmartScreen prevented an unrecognised app from starting. Running this app might put your PC at risk`.
+When starting the Minecraft Server, you receive a windows saying `Windows protected your PC`.
 
 ![proteced your PC](images/windows_unrecognised_app.PNG)
 

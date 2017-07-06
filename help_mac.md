@@ -1,8 +1,8 @@
 # Apple Mac - Help
 
 ## Troubleshooting
- * [StartServer.command can't be opened ... unidentified developer](#servercannotbeopened)
  * [Java needs to be updated](#javaneedsupdating)
+ * [StartServer.command can't be opened ... unidentified developer](#servercannotbeopened)
 
 ## Error - Java needs to be updated  <a id="javaneedsupdating"></a>
 

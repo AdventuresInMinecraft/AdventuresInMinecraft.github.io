@@ -4,7 +4,7 @@
  * [Windows protected your PC](#windowsprotectedpc)
  * [Open File - Security Warning](openfilesecurity)
  * [Windows Firewall has blocked ...](windowsfirewall)
- * [This application requires a Java Runtime ...][javaruntimeinstall]
+ * [This application requires a Java Runtime ...](javaruntimeinstall)
 
 ## Windows protected your PC  <a id="windowsprotectedpc"></a>
 

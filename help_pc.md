@@ -40,7 +40,7 @@ When starting the Minecraft Server, the message `This application requires a Jav
 
 A browser window will open and take you to the Oracle Java download site.
 
-![java download](images/windows_requires_java_browser)
+![java download](images/windows_requires_java_browser.PNG)
 
 Click `Free Java Download` and then `Agree and Start Free Download`.
 

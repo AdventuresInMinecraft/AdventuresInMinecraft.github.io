@@ -2,9 +2,9 @@
 
 ## Troubleshooting
  * [Windows protected your PC](#windowsprotectedpc)
- * [Open File - Security Warning](openfilesecurity)
- * [Windows Firewall has blocked ...](windowsfirewall)
- * [This application requires a Java Runtime ...](javaruntimeinstall)
+ * [Open File - Security Warning](#openfilesecurity)
+ * [Windows Firewall has blocked ...](#windowsfirewall)
+ * [This application requires a Java Runtime ...](#javaruntimeinstall)
 
 ## Windows protected your PC  <a id="windowsprotectedpc"></a>
 
@@ -28,7 +28,7 @@ To run the server you should un-tick `Always ask before opening this file` and c
 
 When starting the Minecraft Server, you receive a windows saying `Windows Firewall has blocked some features of this app`.
 
-![open file security warning](images/windows_firewall_allow_access.PNG)
+![windows firewall](images/windows_firewall_allow_access.png)
 
 To run the server you should click `Always access`.
 

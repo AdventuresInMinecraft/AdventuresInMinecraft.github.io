@@ -5,7 +5,7 @@
  * [Java needs to be updated](#javaneedsupdating)
  * [StartServer.command can't be opened ... unidentified developer](#servercannotbeopened)
 
-## Message - ... you need to install a JDK  <a id="installjdk"></a>
+## To use Java you need to install a JDK  <a id="installjdk"></a>
 
 When starting the Minecraft Server, you receive the message `To use the "java" command-line tool you need to install a JDK` - this is because the Java Development Kit (JDK) isn't install on your Mac.
 

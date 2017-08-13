@@ -2,8 +2,6 @@
 
 The Adventures in Minecraft Starter Kits contain what you need to get started coding Minecraft and can be downloaded here.
 
-To setup your Adventures in Minecraft Starter Kit:
-
 ## Windows PC Starter Kit 
 
 Minecraft v.12 Windows Starter Kit - [Download](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-PC/releases/download/1.12/AIMStarterKitPC.zip) &#124; [Help](help_pc.md)

@@ -27,9 +27,7 @@ Visit the [Mac OS Help](help_mac.md) page if you experience problems.
 
 ## Raspberry Pi Starter Kit
 
-Instructions:
-
-1. Open a terminal, click Menu > Accessories > Terminal
+1. Open a terminal - click Menu > Accessories > Terminal
 2. Enter the following commands to download the Starter Kit to your Desktop
 
 ```

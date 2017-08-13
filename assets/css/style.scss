@@ -4,9 +4,13 @@
 @import "{{ site.theme }}";
 
 h1 {
-  font-size: 42px;
+    font-size: 42px;
 }
 
 #header_wrap {
-  background-image: url('../../images/header.png');
+    background: url('../../images/header.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }

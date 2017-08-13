@@ -1,5 +1,7 @@
 # Starter Kits
 
+v1
+
 The Adventures in Minecraft Starter Kits contain what you need to get started coding Minecraft and can be downloaded here.
 
 To setup your Adventures in Minecraft Starter Kit:

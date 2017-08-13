@@ -6,6 +6,10 @@ To setup your Adventures in Minecraft Starter Kit:
 
 ## Windows PC Starter Kit 
 
+Minecraft v.12 Windows Starter Kit - [Download](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-PC/releases/download/1.12/AIMStarterKitPC.zip) &#124; [Help](help_pc.md)
+
+Instructions:
+
 1. [Download the Minecraft v1.12 Windows Starter Kit](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-PC/releases/download/1.12/AIMStarterKitPC.zip) zip file
 2. Open your Downloads folder
 3. Open the `AIMStarterKitPC.zip` file
@@ -15,6 +19,10 @@ Visit the [Windows Help](help_pc.md) page if you experience problems.
 
 ## Apple Mac OS Starter Kit
 
+Minecraft v.12 Mac OS Starter Kit - [Download](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-Mac/releases/download/v1.12/AIMStarterKitMac.zip) &#124; [Help](help_mac.md)
+
+Instructions:
+
 1. [Download the Minecraft v1.12 Mac OS Starter Kit](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-Mac/releases/download/v1.12/AIMStarterKitMac.zip) zip file
 2. Open your Downloads folder
 3. Copy the `AdventuresInMinecraft-Mac` folder to the Desktop
@@ -22,6 +30,8 @@ Visit the [Windows Help](help_pc.md) page if you experience problems.
 Visit the [Mac OS Help](help_mac.md) page if you experience problems.
 
 ## Raspberry Pi Starter Kit
+
+Instructions:
 
 1. Open a terminal, click Menu > Accessories > Terminal
 2. Enter the following commands to download the Starter Kit to your Desktop

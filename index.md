@@ -62,6 +62,8 @@ Windows PC Starter Kit - [Repository](https://github.com/AdventuresInMinecraft/A
 
 Apple Mac OS Starter Kit - [Repository](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-Mac) &#124; [Readme](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-Mac/blob/master/README.md)
 
+Linux Starter Kit - [Repository](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-Linux) &#124; [Readme](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-Linux/blob/master/README.md)
+
 Adventures code - [Repository](https://github.com/AdventuresInMinecraft/code-files) &#124; [Readme](https://github.com/AdventuresInMinecraft/code-files/blob/master/README.md)
 
 mcpi - [Repository](https://github.com/AdventuresInMinecraft/mcpi) &#124; [Readme](https://github.com/AdventuresInMinecraft/mcpi/blob/master/README.md)

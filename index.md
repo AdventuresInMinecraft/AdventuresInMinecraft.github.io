@@ -4,7 +4,7 @@ The Adventures in Minecraft Starter Kits contain what you need to get started co
 
 ## Windows PC Starter Kit 
 
-Minecraft v1.12 Windows Starter Kit - [Download](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-PC/releases/download/1.12/AIMStarterKitPC.zip) &#124; [Help](help_pc.md) &#124; [Video](https://www.youtube.com/watch?v=hLB5ZIb)
+Minecraft v1.12 Windows Starter Kit - [Download](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-PC/releases/download/1.12/AIMStarterKitPC.zip) &#124; [Help](help_pc.md) &#124; [Video](https://www.youtube.com/watch?v=lQB5QLt0gPw)
 
 1. Download the [Minecraft v1.12 Windows Starter Kit](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-PC/releases/download/1.12/AIMStarterKitPC.zip) zip file
 2. Open your Downloads folder

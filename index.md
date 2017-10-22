@@ -38,6 +38,10 @@ git clone https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-Pi
 
 Visit the [Raspberry Pi Help](help_pi.md) or the [tutorial video](https://www.youtube.com/watch?v=hLB5ZIb-myA) if you experience problems.
 
+# Videos
+
+The Adventures in Minecraft [tutorial videos](videos.md) talk you through the initial setup and describe many of the projects in the book.
+
 # Adventures Code
 
 The code from all the Adventures is available to [download](https://github.com/AdventuresInMinecraft/code-files/archive/master.zip).

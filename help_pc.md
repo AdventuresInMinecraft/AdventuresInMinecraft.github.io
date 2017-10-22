@@ -6,6 +6,8 @@
  * [Windows Firewall has blocked ...](#windowsfirewall)
  * [This application requires a Java Runtime ...](#javaruntimeinstall)
 
+If your issue isn't answered here, please visit the [Adventures In Minecraft Forum](http://www.stuffaboutcode.com/p/adventures-in-minecraft-forum.html) and create a new post.
+
 ## Windows protected your PC  <a id="windowsprotectedpc"></a>
 
 When starting the Minecraft Server, you receive a windows saying `Windows protected your PC`.

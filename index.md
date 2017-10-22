@@ -9,7 +9,7 @@ Minecraft v1.12 Windows Starter Kit - [Download](https://github.com/AdventuresIn
 1. Download the [Minecraft v1.12 Windows Starter Kit](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-PC/releases/download/1.12/AIMStarterKitPC.zip) zip file
 2. Open your Downloads folder
 3. Open the `AIMStarterKitPC.zip` file
-3. Copy the `AdventuresInMinecraft-PC` folder to the Desktop
+4. Copy the `AdventuresInMinecraft-PC` folder to the Desktop
 
 Visit the [Windows Help](help_pc.md) page if you experience problems.
 
@@ -33,6 +33,8 @@ cd ~
 cd Desktop
 git clone https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-Pi
 ```
+
+Visit the [Raspberry Pi Help](help_pi.md) page if you experience problems.
 
 # Adventures Code
 

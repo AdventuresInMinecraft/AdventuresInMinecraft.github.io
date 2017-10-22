@@ -4,26 +4,28 @@ The Adventures in Minecraft Starter Kits contain what you need to get started co
 
 ## Windows PC Starter Kit 
 
-Minecraft v1.12 Windows Starter Kit - [Download](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-PC/releases/download/1.12/AIMStarterKitPC.zip) &#124; [Help](help_pc.md)
+Minecraft v1.12 Windows Starter Kit - [Download](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-PC/releases/download/1.12/AIMStarterKitPC.zip) &#124; [Help](help_pc.md) &#124; [Video](https://www.youtube.com/watch?v=hLB5ZIb)
 
 1. Download the [Minecraft v1.12 Windows Starter Kit](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-PC/releases/download/1.12/AIMStarterKitPC.zip) zip file
 2. Open your Downloads folder
 3. Open the `AIMStarterKitPC.zip` file
 4. Copy the `AdventuresInMinecraft-PC` folder to the Desktop
 
-Visit the [Windows Help](help_pc.md) page if you experience problems.
+Visit the [Windows help](help_pc.md) if you experience problems.
 
 ## Apple Mac OS Starter Kit
 
-Minecraft v1.12 Mac OS Starter Kit - [Download](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-Mac/releases/download/v1.12/AIMStarterKitMac.zip) &#124; [Help](help_mac.md)
+Minecraft v1.12 Mac OS Starter Kit - [Download](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-Mac/releases/download/v1.12/AIMStarterKitMac.zip) &#124; [Help](help_mac.md) &#124; [Video](https://www.youtube.com/watch?v=S6AKfJHSZTM)
 
 1. Download the [Minecraft v1.12 Mac OS Starter Kit](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-Mac/releases/download/v1.12/AIMStarterKitMac.zip) zip file
 2. Open your Downloads folder
 3. Copy the `AdventuresInMinecraft-Mac` folder to the Desktop
 
-Visit the [Mac OS Help](help_mac.md) page if you experience problems.
+Visit the [Mac OS help](help_mac.md) if you experience problems.
 
 ## Raspberry Pi Starter Kit
+
+[Help](help_pi.md) &#124; [Video](https://www.youtube.com/watch?v=hLB5ZIb-myA)
 
 1. Open a terminal - click Menu > Accessories > Terminal
 2. Enter the following commands to download the Starter Kit to your Desktop
@@ -34,7 +36,7 @@ cd Desktop
 git clone https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-Pi
 ```
 
-Visit the [Raspberry Pi Help](help_pi.md) page if you experience problems.
+Visit the [Raspberry Pi Help](help_pi.md) or the [tutorial video](https://www.youtube.com/watch?v=hLB5ZIb-myA) if you experience problems.
 
 # Adventures Code
 

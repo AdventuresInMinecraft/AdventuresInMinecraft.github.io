@@ -51,7 +51,7 @@ It is commented and tested and you might find it useful to compare agained your 
 The code download is organised into Adventures, you should copy the program file into the `My Adventures` folder before running.
 
 Downloads - [1st Edition](https://github.com/AdventuresInMinecraft/code-files/archive/1.0.zip) &#124;
-2nd Edition - to come &#124;
+[2nd Edition](https://github.com/AdventuresInMinecraft/code-files/archive/2.0.zip) &#124;
 [Latest](https://github.com/AdventuresInMinecraft/code-files/archive/master.zip)
 
 # Forum

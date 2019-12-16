@@ -15,9 +15,9 @@ Visit the [Windows help](help_pc.md) if you experience problems.
 
 ## Apple Mac OS Starter Kit
 
-Minecraft v1.12 Mac OS Starter Kit - [Download](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-Mac/releases/download/v1.12/AIMStarterKitMac.zip) &#124; [Help](help_mac.md) &#124; [Video](https://www.youtube.com/watch?v=S6AKfJHSZTM)
+Minecraft v1.12 Mac OS Starter Kit - [Download](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-Mac/releases/download/1.12b/AIMStarterKitMac.zip) &#124; [Help](help_mac.md) &#124; [Video](https://www.youtube.com/watch?v=S6AKfJHSZTM)
 
-1. Download the [Minecraft v1.12 Mac OS Starter Kit](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-Mac/releases/download/v1.12/AIMStarterKitMac.zip) zip file
+1. Download the [Minecraft v1.12 Mac OS Starter Kit](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-Mac/releases/download/1.12b/AIMStarterKitMac.zip) zip file
 2. Open your Downloads folder
 3. Copy the `AdventuresInMinecraft-Mac` folder to the Desktop
 
